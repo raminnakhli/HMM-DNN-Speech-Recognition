@@ -1,0 +1,5 @@
+hmmlearn
+numpy
+sklearn
+matplotlib
+torch
