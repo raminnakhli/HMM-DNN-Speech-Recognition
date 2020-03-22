@@ -40,5 +40,5 @@ Now, you can run the model with default configuration using the below command.
 
 Ramin Ebrahim Nakhli - raminnakhli@gmail.com
 
-Project Link: https://github.com/raminnakhli/GMM-HMM-from-scratch
+Project Link: https://github.com/raminnakhli/HMM-DNN-Speech-Recognition
 
