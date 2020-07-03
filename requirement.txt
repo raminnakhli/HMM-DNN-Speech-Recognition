@@ -1,4 +1,4 @@
-hmmlearn
+hmmlearn==0.2.1
 numpy
 sklearn
 matplotlib
